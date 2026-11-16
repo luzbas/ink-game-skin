@@ -9,8 +9,8 @@ Black ink, warm paper (#EDE8DF) and one vermillion accent (#D9472B), set in IM F
   Mini player and Fullscreen. Clicking a slot acts at once and moves the highlight; the slots never rotate. The hub
   says what the highlighted slot does.
 - **Timeline ring.** The outer ring is the timeline, split by chapter gaps, with a seal knob at the playhead. Grab it
-  anywhere and turn: it scrubs from the current time, one full turn is the whole video, chapter starts catch like
-  detents (and buzz on phones that can).
+  anywhere and turn: it scrubs from the current time, one full turn is the whole video, and it turns smoothly from chapter
+  to chapter (crossing a boundary clicks, and buzzes on phones that can). Scrolling over the wheel does not turn it.
 - **Volume dial.** With Volume highlighted, the ring becomes a 300° dial (0–100). Click Volume again to mute; any
   other slot or Esc brings the timeline back.
 - **Chapter cards.** Chapters open as paper cards on a 3D carousel over an ink pool, with a frame from each chapter
